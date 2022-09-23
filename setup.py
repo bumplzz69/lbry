@@ -30,7 +30,7 @@ setup(
         'base58==1.0.0',
         'jsonrpc',
         'cryptography',
-        'protobuf==3.6.1',
+        'protobuf==3.18.3',
         'msgpack',
         'jsonschema',
         'ecdsa',
